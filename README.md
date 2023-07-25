@@ -1,6 +1,5 @@
 # Virtual Hand Gesture Keyboard
 
-
 ## Table of Contents
 
 - [Introduction](#introduction)
