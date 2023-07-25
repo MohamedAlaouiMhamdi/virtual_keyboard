@@ -1,6 +1,5 @@
 # Virtual Hand Gesture Keyboard
 
-![Virtual Hand Gesture Keyboard](images/virtual_keyboard.png)
 
 ## Table of Contents
 
