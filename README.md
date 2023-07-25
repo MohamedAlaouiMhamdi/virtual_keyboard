@@ -20,41 +20,15 @@ The Virtual Hand Gesture Keyboard is an interactive virtual keyboard that allows
 
 1. Clone the repository:
 
-Sure! Below is a professionally formatted README file for your project:
-
-scss
-Copy code
-# Virtual Hand Gesture Keyboard
-
-![Virtual Hand Gesture Keyboard](images/virtual_keyboard.png)
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Demo Video](#demo-video)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-The Virtual Hand Gesture Keyboard is an interactive virtual keyboard that allows users to type using hand gestures in front of their webcam. It uses the OpenCV library for hand tracking and recognizes hand gestures to simulate keypresses on the user's computer.
-
-## Installation
-
-1. Clone the repository:
-
-git clone https://github.com/your_username/virtual-hand-gesture-keyboard.git
+   git clone https://github.com/MohamedAlaouiMhamdi/virtual_keyboard.git
 
 2. Install the required libraries:
 
-pip install opencv-python mediapipe numpy pynput
+   pip install opencv-python mediapipe numpy pynput
 
 3. Run the application:
 
-python virtual_keyboard.py
+   python virtual_keyboard.py
 
 ## Usage
 
@@ -70,9 +44,7 @@ The virtual keyboard consists of buttons, and each button is associated with a s
 
 ## Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/your_youtube_video_id/0.jpg)](https://www.youtube.com/watch?v=your_youtube_video_id)
-
-Click the image above to watch the demo video on YouTube.
+https://github.com/MohamedAlaouiMhamdi/virtual_keyboard/assets/98537138/5f3d6f68-3233-4664-abaf-0c07cd220b05
 
 ## Contributing
 
